@@ -118,3 +118,7 @@ export default defineConfig({
   },
 });
 ```
+
+## Resultado
+
+![alt text](/src/assets/image.png)
